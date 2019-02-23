@@ -1,6 +1,6 @@
 {
     "AWSEBDockerrunVersion": 2,
-    "containerDefiniotions": [
+    "containerDefinitions": [
         {
             "name": "client",
             "image": "goalek/multi-client",
